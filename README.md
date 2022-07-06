@@ -1,20 +1,20 @@
-# Zenesus
+# Zenesus 🏫🎓
 
 This is an open-source project aiming to create a gradebook application for the gradebook interface Genesis.
 
-##  What is it?
+##  What is it? 🤔
 Zenesus is a gradebook application built for Montgomery Highschool's gradebook system
 
 It uses dart and python as the main languages!
 
-## How we built it
+## How we built it 🛠
 
 Eddie and Ekam used python and dart.
 
 The python was used in the backend, where webscraping and data processing took place,
 while dart was used for the application building process.
 
-## Why we built it
+## Why we built it 💭
 Mainly, it was because the Genesis interface was a not-so-well-built website that was difficult to navigate.
 
 
