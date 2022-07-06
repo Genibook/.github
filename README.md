@@ -1,4 +1,5 @@
 # Zenesus 🏫🎓
+![](https://github.com/Zenesus/.github/blob/main/Zenesus-logos/Zenesus.png)
 
 This is an open-source project aiming to create a gradebook application for the gradebook interface Genesis.
 
