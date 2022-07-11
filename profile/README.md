@@ -4,7 +4,7 @@
 
 ##  What is it? 🤔
 
-**This is an open-source project aiming to create a a gradebook application built for Montgomery Highschool's gradebook system!**
+**This is an open-source project aiming to create a a gradebook application built for Montgomery Highschool's gradebook system - Genesis!**
 
 ## How we built it 🛠
 
