@@ -14,7 +14,7 @@ The python was used in the backend, where webscraping and data processing took p
 while dart was used for the application building process.
 
 ## Why we built it 💭
-Mainly, it was because the Genesis interface was a not-so-well-built website that was difficult to navigate.
+Mainly, it is because the Genesis interface is a not-so-well-built website that was difficult to navigate.
 
 
 However, Taking inspiration from [this application](https://github.com/gradebook-app) and the need for a gradebook application in his highschool,
