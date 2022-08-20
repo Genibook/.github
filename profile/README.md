@@ -27,6 +27,3 @@ This application will achieve:
 - And More
 
 
-## Contributions
-Feel free to contribute to the project!
-
