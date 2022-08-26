@@ -24,6 +24,7 @@ This application will achieve:
 - Multiple Account Grade Viewing
 - Working Schedule
 - Report Card Viewing
+- Multiple platform accessibility
 - And More
 
 
