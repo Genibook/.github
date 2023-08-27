@@ -1,4 +1,4 @@
-# Zenesus 🏫🎓
+# Genibook (formally known as zenesus)🏫🎓
 ![](https://github.com/Zenesus/.github/blob/main/Zenesus-logos/Zenesus.png)
 
 
@@ -8,9 +8,9 @@
 
 ## How we built it 🛠
 
-Eddie used python.
+Eddie used python and go and flutter/dart.
 
-The python was used in the backend, where webscraping and data processing took place,
+The python was used in the backend, where webscraping and data processing took place, (now go)
 while dart was used for the application building process.
 
 ## Why we built it 💭
