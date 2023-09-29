@@ -1,5 +1,6 @@
 # Genibook (formally known as zenesus)🏫🎓
-![](https://github.com/Zenesus/.github/blob/main/Zenesus-logos/Zenesus.png)
+
+![book](https://github.com/Zenesus/.github/assets/91804938/dfacc8ba-61e3-4936-ba93-93c6569c03dd)
 
 ![genibook1](https://github.com/Zenesus/.github/assets/91804938/54dbb541-8cd0-4971-9d5b-401ad66ab2c6)
 ![genibook2](https://github.com/Zenesus/.github/assets/91804938/9513ab9f-76a4-4468-abcb-771db7197a60)
