@@ -30,3 +30,6 @@ This application will achieve:
 - And More
 
 
+## Check it out!
+- [Appstore](https://apps.apple.com/us/app/genibook/id6449626427?platform=iphone)
+- [Google Play](https://play.google.com/store/apps/details?id=com.genibook.application)
